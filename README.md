@@ -29,6 +29,30 @@ Objective: In this method, the user is required to select one image category (le
   1. Convert selected sequence of images to a rememberable sentence, and prompt questions based on that sentence during login
   2. Captcha based Password Authentication
   3. Develop Extension to add graphical password for any website
-  4. Change parameters according to password strength selected by the user 
-Architecture:
+  4. Change parameters according to password strength selected by the user
+ 
+  Architecture:
+
+  
 ![image](https://github.com/shashu278/Graphical_Password_Authentication/assets/103124730/62980824-74e8-4286-a3b6-879941c29a43)
+
+
+Screenshots:
+
+![image](https://github.com/shashu278/Graphical_Password_Authentication/assets/103124730/6c779438-8b58-4a6a-b7f8-a29e891ed8e3)
+
+
+![image](https://github.com/shashu278/Graphical_Password_Authentication/assets/103124730/cb12812f-ad6e-4d14-93bd-7e8a5166ce5f)
+
+
+![image](https://github.com/shashu278/Graphical_Password_Authentication/assets/103124730/ed760999-0b6c-4520-83b1-17a2141ba7c3)
+
+
+![image](https://github.com/shashu278/Graphical_Password_Authentication/assets/103124730/0b1896c8-de57-4abc-b841-af132891790d)
+
+
+![image](https://github.com/shashu278/Graphical_Password_Authentication/assets/103124730/6e6cfede-fabf-4d13-8a0f-093a3f4f2b8f)
+
+
+![image](https://github.com/shashu278/Graphical_Password_Authentication/assets/103124730/3035959d-3621-4ed2-b28c-49273ef53ff8)
+
