@@ -30,3 +30,5 @@ Objective: In this method, the user is required to select one image category (le
   2. Captcha based Password Authentication
   3. Develop Extension to add graphical password for any website
   4. Change parameters according to password strength selected by the user 
+Architecture:
+![image](https://github.com/shashu278/Graphical_Password_Authentication/assets/103124730/62980824-74e8-4286-a3b6-879941c29a43)
